@@ -76,6 +76,5 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 ---
 
 ## **Contact**
-- 📧 **Email**: sagarpk19982@gmail.com
+- 📧 **Email**: sagarpk1998@gmail.com
 - 💼 **LinkedIn**: [@SagarKarjagi](https://www.linkedin.com/in/sagarkarjagi/)
-
