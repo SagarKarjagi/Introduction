@@ -5,9 +5,17 @@ Hi, I'm **Sagar Karjagi**, a data-driven individual with a strong analytical bac
 
 In my free time, I enjoy learning new data analysis tools, and I am always on the lookout for opportunities to expand my knowledge. I thrive on solving complex problems through data, whether it's working independently or in a team.
 
-📄 **[My CV (PDF)](https://github.com/SagarKarjagi/Projects/blob/main/Sagar_P_Karjagi.pdf)**
+📄 **[My CV (PDF)](https://github.com/SagarKarjagi/SagarKarjagi/blob/main/Sagar_Karjagi.pdf)**
 
 This repository showcases my skills, projects, and progress in the **Data Analytics** field.
+
+---
+
+## **Skills**
+-  **[Python](https://github.com/SagarKarjagi/Python)**
+-  **[SQL](https://github.com/SagarKarjagi/SQL)**
+-  **[Power BI](https://github.com/SagarKarjagi/Power-BI)**
+-  **[Excel](https://github.com/SagarKarjagi/Excel)**
 
 ---
 
@@ -21,9 +29,8 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 ---
 
 ## **Portfolio Projects**
-
 ### **1. Created Own DataFrame using Python**
-- **Code**: [Jupyter Notebook](https://github.com/SagarKarjagi/Projects/blob/main/Python%20Capstone%20project.ipynb?short_path=2b82ef9)
+- **Code**: [Jupyter Notebook](https://github.com/SagarKarjagi/Python/blob/main/Python%20Capstone%20project.ipynb)
 - **Goal**: Practice Python libraries like **Pandas** and **NumPy**.
 - **Description**: Analyzed a dataset of employees focusing on projects, costs, designation levels, and project status. Implemented data cleaning, exploratory data analysis (EDA), and **Pearson's correlation analysis** to uncover key insights.
 - **Skills**: Data cleaning, EDA, statistical analysis, data visualization.
@@ -31,9 +38,8 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 - **Outcome**: The project helped in determining employee bonuses based on project status and performance.
 
 ---
-
 ### **2. Airline Database (SQL Project)**
-- **Code**: [Airline Database Design](https://github.com/SagarKarjagi/Projects/blob/main/SQL%20Capstone%20Project%20%20(3).docx)
+- **Code**: [Airline Database Design](https://github.com/SagarKarjagi/SQL/blob/main/Airline%20Database.docx)
 - **Goal**: Develop a **SQL database** to store and manage airline data efficiently.
 - **Description**: Designed and normalized database schemas. Implemented complex SQL queries involving joins, subqueries, and aggregate functions to analyze flight and passenger data.
 - **Skills**: Database design, SQL queries, data aggregation.
@@ -41,17 +47,15 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 - **Outcome**: Improved data accessibility and reporting accuracy, providing insights into **operational efficiency** and **customer satisfaction**.
 
 ---
-
 ### **3. Cricket Dashboard Analysis (Power BI Project)**
-- **Code**: [Cricket Dashboard in Power BI](https://github.com/SagarKarjagi/Projects/blob/main/Cricket_Dashboard.pbix)
+- **Code**: [Cricket Dashboard in Power BI](https://github.com/SagarKarjagi/Power-BI/blob/main/Cricket_Dashboard.pbix)
 - **Goal**: Create an interactive dashboard to visualize cricket match data.
 - **Description**: Developed a dynamic **Power BI dashboard** with Python for preprocessing. The dashboard provided key insights by segmenting match stages into **'Qualifier'** and **'Super 12'**.
 - **Skills**: Data visualization, dashboard creation, data cleaning.
 - **Tools Used**: Power BI, Python.
 - **Outcome**: The interactive dashboard enhanced data-driven decision-making for match stages.
-- (https://github.com/SagarKarjagi/Projects/blob/main/Cricket_Dashboard.png)
-- (https://github.com/SagarKarjagi/Projects/blob/main/Players_details.png)
-- (https://github.com/SagarKarjagi/Projects/blob/main/Final_11%20players.png)
+  
+<img src="https://github.com/SagarKarjagi/Power-BI/blob/main/Cricket_Dashboard.png" alt="Left Image" width="325" height="250"/>  <img src="https://github.com/SagarKarjagi/Power-BI/blob/main/Players_details.png" alt="Center Image" width="325" height="250"/>  <img src="https://github.com/SagarKarjagi/Power-BI/blob/main/Final_11%20players.png" alt="Right Image" width="325" height="250"/>
 
 ---
 
@@ -64,7 +68,7 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 ---
 
 ## **Certificates**
-- [Skillovila Data Analytics Professional Certificate](https://github.com/SagarKarjagi/Projects/blob/main/Sagar_Anlayst_certificate.pdf) (2024)
+- [Skillovila Data Analytics Professional Certificate](https://github.com/SagarKarjagi/SagarKarjagi/blob/main/Sagar_Anlayst_certificate.pdf) (2024)
 - [HackerRank SQL Certificate](https://www.hackerrank.com/profile/sagarpk1998)
 
 ---
