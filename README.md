@@ -3,7 +3,7 @@ Hi, I'm **Sagar Karjagi**, a data-driven individual with a strong analytical bac
 
 In my free time, I enjoy learning new data analysis tools, and I am always on the lookout for opportunities to expand my knowledge. I thrive on solving complex problems through data, whether it's working independently or in a team.
 
-📄 **[My CV (PDF)](https://github.com/SagarKarjagi/SagarKarjagi/blob/main/Sagar%20P%20Karjagi.pdf)**
+📄 **[My CV (PDF)](https://github.com/SagarKarjagi/SagarKarjagi/blob/main/Sagar_Karjagi.pdf)**
 
 This repository showcases my skills, projects, and progress in the **Data Analytics** field.
 
